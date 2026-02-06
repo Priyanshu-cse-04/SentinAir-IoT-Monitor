@@ -3,6 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Platform](https://img.shields.io/badge/Platform-ESP8266-blue)
 ![Architecture](https://img.shields.io/badge/Architecture-OOP-orange)
+[![ThingSpeak](https://img.shields.io/badge/Dashboard-Live%20Data-red)](https://thingspeak.mathworks.com/channels/3239197)
 
 ## 📖 Project Overview
 Designed and implemented a scalable IoT solution to monitor hyper-local air quality indices (AQI). The system integrates precision hardware with a C++ firmware architecture to log environmental data (PM2.5, PM10, Temperature, Humidity) to the cloud for real-time analytics.
