@@ -15,13 +15,13 @@ Designed and implemented a scalable IoT solution to monitor hyper-local air qual
 
 ## 📸 Component Breakdown
 <p align="center">
-  <img src="project/name_of_face.jpg" width="45%"> 
-  <img src="project/name_of_graph.png" width="45%">
+  <img src="project/1%20(3).jpeg" width="45%">
+  <img src="project/1%20(11).jpeg" width="45%">
 </p>
 <p align="center">
-  <img src="project/name_of_nodemcu.jpg" width="30%">
-  <img src="project/name_of_sensor.jpg" width="30%">
-  <img src="project/name_of_wiring.jpg" width="30%">
+  <img src="project/1%20(7).jpeg" width="30%">
+  <img src="project/1%20(1).jpeg" width="30%">
+  <img src="project/1%20(4).jpeg" width="30%">
 </p>
 
 ## 🛠️ Technical Stack
