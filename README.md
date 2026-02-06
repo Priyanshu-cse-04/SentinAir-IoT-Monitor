@@ -38,3 +38,4 @@ Designed and implemented a scalable IoT solution to monitor hyper-local air qual
 ## 👨‍💻 Developer
 **B.Tech Computer Science & Engineering (3rd Year)**
 Focused on IoT Architectures, Embedded Software, and Cloud Computing.
+[![ThingSpeak](https://img.shields.io/badge/Dashboard-Live%20Data-red)](https://thingspeak.mathworks.com/channels/3239197)
